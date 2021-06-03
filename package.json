@@ -2,7 +2,7 @@
   "name": "netflix-clone",
   "version": "0.1.0",
   "engines": {
-    "node": "14.x"
+    "node": "v14.16.1"
   },
   "private": true,
   "dependencies": {
